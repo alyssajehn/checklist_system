@@ -1,0 +1,107 @@
+
+
+body{
+    margin:0;
+    color: #fff;
+    
+}
+header{
+    color: #fff;
+    text-align: center;
+    padding:10px;
+    background-color:#342D32;
+    height:100px;
+    width: auto;
+}
+.heads h2 {
+    font-size:30px;
+    margin-top:10px;
+    margin-bottom:0;
+}
+.heads p{
+    font-size:20px;
+    margin-top:1px;
+    margin-bottom:8px;
+}
+.heads a{
+    font-size:13px;
+   
+}
+    .header-content {
+    text-align: center;
+    padding: 80px 0;
+
+}
+
+.header-content h1 {
+ font-size: 45px;
+ margin-bottom: 20px;
+font-family:  Arial, Helvetica, sans-serif;
+
+}
+.bodycontainer{
+   
+background-image: linear-gradient(180deg, #383434 0%, #cfd4e3 55%, #9f9191 66%);
+
+    width: auto;
+    height:80vh;
+}
+
+
+.cta-buttons {
+text-align: center;
+margin-top: 50px;
+}
+
+.cta-buttons a {
+display: inline-block;
+
+color: #000;
+border-style: solid;
+border-width: 2px;
+border-color: #383434;
+text-decoration: none;
+padding: 15px 30px;
+margin: 10px;
+border-radius: 30px;
+transition: background-color 0.3s;
+font-weight: bold;
+letter-spacing: 1px;
+text-transform: uppercase;
+}
+.cta-buttons2 {
+text-align: center;
+margin-top: 50px;
+}
+.cta-buttons2 a {
+display: inline-block;
+
+border-style: solid;
+border-width: 2px;
+border-color: #383434;
+color: #000;
+text-decoration: none;
+padding: 15px 30px;
+margin: 10px;
+border-radius: 30px;
+transition: background-color 0.3s;
+font-weight: bold;
+letter-spacing: 1px;
+text-transform: uppercase;
+}
+
+.cta-buttons a:hover {
+background-color: #383434;
+}
+
+footer {
+    background-color:#342D32;
+    color: #fff;
+    padding:0 ;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+   
+    bottom: 0;
+    z-index: 100;
+}
